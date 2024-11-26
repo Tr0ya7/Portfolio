@@ -9,7 +9,7 @@ export default function FeaturedProjects() {
 	return (
 		<Section classProp={css.hasBg}>	
 			<Container spacing={'verticalXXXXLrg'}>
-				<SectionTitle title="Projetos" preTitle="Full Stack" />
+				<SectionTitle id="projects" title="Projetos" preTitle="Full Stack" />
 				<a className={css.link} href="https://www.behance.net/luizhedesouz6">
 					Descrição aprofundada dos projetos
 				</a>

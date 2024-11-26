@@ -1,7 +1,6 @@
 import Section from '../../structure/section'
 import Container from '../../structure/container'
 import SectionTitle from '../../blocks/section.title.block'
-import BadgesBlock from '../../blocks/about.badges.block'
 import CopyBlock from '../../blocks/about.copy.block'
 import about from '../../../styles/sections/index/about.module.scss'
 
@@ -10,11 +9,7 @@ export default function About() {
 		<Section classProp={about.section}>	
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="Sobre Mim"
-					preTitle="Sinopse"
-					subTitle="
-						Com conhecimento em front-end, back-end, clean code, bancos de dados e devops, sigo me aprimorando para ser um profissional completo.
-					"
+					id="aboutme" title="Sobre Mim" preTitle="Sinopse" subTitle="Com conhecimento em front-end, back-end, clean code, bancos de dados e devops, sigo me aprimorando para ser um profissional completo."
 				/>
 				<section className={about.content}>
 					<div className={about.copy} >
