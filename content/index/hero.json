@@ -1,0 +1,37 @@
+{
+	"intro": {
+		"start": "const Luiz = ( name, passion ) =>",
+		"end": "Olá, meu nome é",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Luiz Henrique.",
+		"usp": "Da interface à infraestrutura"
+	},
+
+	"paragraph": "Eu sou programador full stack — em uma constante evolução, me dedicando e aprendendo pelo resto da vida para causar o maior impacto positivo possível.",
+
+	"buttons": {
+		"primary": {
+			"title": "Fale comigo",
+			"url": "",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "",
+			"leaveSite": "true"
+		},
+		"third": {
+			"title": "Resume",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+[
+	{
+		"project": "Notion",
+		"url": "https://notion-tau-seven.vercel.app",
+		"repo": "Public",
+		"descriptionTitle": "Projeto baseado no Notion,",
+		"description": "onde foi implementado um real time database para a inserção de infinitos documentos com imagens e textos dentro deles, além de diversas outras funcionalidades.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "350", "w": "556", "url": "/img/msc-mock_stack/03.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "typescript", 	"name": "TYPESCRIPT", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "tailwindcss",	"name": "TAILWIND", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "Login",
+		"url": "https://login-page-beryl-eight.vercel.app",
+		"repo": "Public",
+		"descriptionTitle": "Uma página de login,",
+		"description": "responsiva com algumas animações e efeitos",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "350", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "tailwindcss",	"name": "TAILWIND", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]
